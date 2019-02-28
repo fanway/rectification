@@ -1,1 +1,1 @@
-This is implemetation of affine rectification
+This is a implemetation of affine rectification
